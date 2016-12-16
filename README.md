@@ -1,3 +1,5 @@
+# spptest is now GET. Get it now at https://github.com/myllym/GET!
+
 # spptest
 
 An R library for spatial point pattern testing
